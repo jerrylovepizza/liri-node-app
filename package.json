@@ -1,0 +1,30 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "main": "liri.js",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "dotenv": "^6.2.0",
+    "external": "^1.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "package": "^1.0.1",
+    "spotify-web-api-node": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squall2046/liri-node-app.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/squall2046/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/squall2046/liri-node-app#readme",
+  "description": ""
+}
