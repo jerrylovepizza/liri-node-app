@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "liri.js",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "dotenv": "^6.2.0",
     "external": "^1.0.0",
     "moment": "^2.24.0",
